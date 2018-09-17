@@ -1,5 +1,12 @@
 hello
 
 ghghghf
+<<<<<<< HEAD
 fgdsg
 hei
+=======
+fgdsg
+>>>>>>> 8cb25a9e166c0459f063d348775ef7b5d6113547
+dfdsfdsf fdffds
+
+dffdsfsf
