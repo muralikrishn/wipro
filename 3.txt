@@ -4,6 +4,7 @@ ghghghf
 <<<<<<< HEAD
 fgdsg
 hei
+<<<<<<< HEAD
 =======
 fgdsg
 >>>>>>> 8cb25a9e166c0459f063d348775ef7b5d6113547
@@ -19,3 +20,12 @@ fake
 
 
 
+=======
+heii
+hello
+gfgfg
+dgdsfgg
+
+
+hello
+>>>>>>> development
